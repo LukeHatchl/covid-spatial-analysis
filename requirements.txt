@@ -1,0 +1,15 @@
+pandas
+geopandas
+numpy
+matplotlib
+seaborn
+plotly
+scipy
+scikit-learn
+# pysal
+# esda
+# libpysal
+mapclassify
+requests
+jupyter
+folium
